@@ -9,3 +9,8 @@ In the commit new file box below you can type the description for your file.
 Select the radio button Commit directly to the master branch.
 Click on the Commit new file button
 You will see the new directory will be created.
+
+
+how to delete a file from github:
+Browse to the file in your repository that you want to delete.
+At the top of the file, click <on the dustbin symbol> 
