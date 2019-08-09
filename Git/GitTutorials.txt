@@ -1,3 +1,4 @@
+how to create a folder in repository in github:
 For the ones using the web browser. You can do the following:
 Once in the master repository
 Click on Create a new file.
